@@ -30,8 +30,8 @@ float bookDimensionY = 2.79f;
 float bookDimensionZ = 23.37f;
 float bookValue = 9.8f;
 int bookReviews = 50000;
-string kindleVersion = "si";
-string flexibleCover = "si";
+bool kindleVersion = true;
+bool flexibleCover = true;
 
 /*ISBN: <<isbn>>
 Numero delle pagine: <<numeroPagine>> pagine
